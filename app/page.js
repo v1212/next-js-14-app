@@ -49,7 +49,7 @@ export default function Home() {
           <h2>
             Docs <span>-&gt;</span>
           </h2>
-          <p>Find more in-depth information about features and API 123456789.</p>
+          <p>Find more in-depth information about features and API hicfnershiuce.</p>
         </a>
 
         <a
