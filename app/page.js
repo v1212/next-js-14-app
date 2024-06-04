@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          This is an update again;
+          This is an update to test clean up;
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
